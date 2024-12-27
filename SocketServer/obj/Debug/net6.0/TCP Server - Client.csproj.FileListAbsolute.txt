@@ -1,0 +1,60 @@
+C:\Users\1\Desktop\TCP Server - Client\bin\Debug\net6.0\TCP Server - Client.exe
+C:\Users\1\Desktop\TCP Server - Client\bin\Debug\net6.0\TCP Server - Client.deps.json
+C:\Users\1\Desktop\TCP Server - Client\bin\Debug\net6.0\TCP Server - Client.runtimeconfig.json
+C:\Users\1\Desktop\TCP Server - Client\bin\Debug\net6.0\TCP Server - Client.dll
+C:\Users\1\Desktop\TCP Server - Client\bin\Debug\net6.0\TCP Server - Client.pdb
+C:\Users\1\Desktop\TCP Server - Client\obj\Debug\net6.0\TCP Server - Client.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\TCP Server - Client\obj\Debug\net6.0\TCP Server - Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\TCP Server - Client\obj\Debug\net6.0\TCP Server - Client.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\TCP Server - Client\obj\Debug\net6.0\TCP Server - Client.AssemblyInfo.cs
+C:\Users\1\Desktop\TCP Server - Client\obj\Debug\net6.0\TCP Server - Client.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\TCP Server - Client\obj\Debug\net6.0\TCP Server - Client.dll
+C:\Users\1\Desktop\TCP Server - Client\obj\Debug\net6.0\refint\TCP Server - Client.dll
+C:\Users\1\Desktop\TCP Server - Client\obj\Debug\net6.0\TCP Server - Client.pdb
+C:\Users\1\Desktop\TCP Server - Client\obj\Debug\net6.0\TCP Server - Client.genruntimeconfig.cache
+C:\Users\1\Desktop\TCP Server - Client\obj\Debug\net6.0\ref\TCP Server - Client.dll
+C:\Users\1\Desktop\TCP Server - Client\SocetServer\bin\Debug\net6.0\TCP Server - Client.exe
+C:\Users\1\Desktop\TCP Server - Client\SocetServer\bin\Debug\net6.0\TCP Server - Client.deps.json
+C:\Users\1\Desktop\TCP Server - Client\SocetServer\bin\Debug\net6.0\TCP Server - Client.runtimeconfig.json
+C:\Users\1\Desktop\TCP Server - Client\SocetServer\bin\Debug\net6.0\TCP Server - Client.dll
+C:\Users\1\Desktop\TCP Server - Client\SocetServer\bin\Debug\net6.0\TCP Server - Client.pdb
+C:\Users\1\Desktop\TCP Server - Client\SocetServer\obj\Debug\net6.0\TCP Server - Client.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\TCP Server - Client\SocetServer\obj\Debug\net6.0\TCP Server - Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\TCP Server - Client\SocetServer\obj\Debug\net6.0\TCP Server - Client.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\TCP Server - Client\SocetServer\obj\Debug\net6.0\TCP Server - Client.AssemblyInfo.cs
+C:\Users\1\Desktop\TCP Server - Client\SocetServer\obj\Debug\net6.0\TCP Server - Client.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\TCP Server - Client\SocetServer\obj\Debug\net6.0\TCP Server - Client.dll
+C:\Users\1\Desktop\TCP Server - Client\SocetServer\obj\Debug\net6.0\refint\TCP Server - Client.dll
+C:\Users\1\Desktop\TCP Server - Client\SocetServer\obj\Debug\net6.0\TCP Server - Client.pdb
+C:\Users\1\Desktop\TCP Server - Client\SocetServer\obj\Debug\net6.0\TCP Server - Client.genruntimeconfig.cache
+C:\Users\1\Desktop\TCP Server - Client\SocetServer\obj\Debug\net6.0\ref\TCP Server - Client.dll
+C:\Users\1\Desktop\TCP Server - Client\SocketServer\bin\Debug\net6.0\TCP Server - Client.exe
+C:\Users\1\Desktop\TCP Server - Client\SocketServer\bin\Debug\net6.0\TCP Server - Client.deps.json
+C:\Users\1\Desktop\TCP Server - Client\SocketServer\bin\Debug\net6.0\TCP Server - Client.runtimeconfig.json
+C:\Users\1\Desktop\TCP Server - Client\SocketServer\bin\Debug\net6.0\TCP Server - Client.dll
+C:\Users\1\Desktop\TCP Server - Client\SocketServer\bin\Debug\net6.0\TCP Server - Client.pdb
+C:\Users\1\Desktop\TCP Server - Client\SocketServer\obj\Debug\net6.0\TCP Server - Client.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\TCP Server - Client\SocketServer\obj\Debug\net6.0\TCP Server - Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\TCP Server - Client\SocketServer\obj\Debug\net6.0\TCP Server - Client.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\TCP Server - Client\SocketServer\obj\Debug\net6.0\TCP Server - Client.AssemblyInfo.cs
+C:\Users\1\Desktop\TCP Server - Client\SocketServer\obj\Debug\net6.0\TCP Server - Client.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\TCP Server - Client\SocketServer\obj\Debug\net6.0\TCP Server - Client.dll
+C:\Users\1\Desktop\TCP Server - Client\SocketServer\obj\Debug\net6.0\refint\TCP Server - Client.dll
+C:\Users\1\Desktop\TCP Server - Client\SocketServer\obj\Debug\net6.0\TCP Server - Client.pdb
+C:\Users\1\Desktop\TCP Server - Client\SocketServer\obj\Debug\net6.0\TCP Server - Client.genruntimeconfig.cache
+C:\Users\1\Desktop\TCP Server - Client\SocketServer\obj\Debug\net6.0\ref\TCP Server - Client.dll
+C:\Users\1\Desktop\Server-Client\SocketServer\obj\Debug\net6.0\TCP Server - Client.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\Server-Client\SocketServer\obj\Debug\net6.0\TCP Server - Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\Server-Client\SocketServer\obj\Debug\net6.0\TCP Server - Client.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\Server-Client\SocketServer\obj\Debug\net6.0\TCP Server - Client.AssemblyInfo.cs
+C:\Users\1\Desktop\Server-Client\SocketServer\obj\Debug\net6.0\TCP Server - Client.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Server-Client\SocketServer\obj\Debug\net6.0\TCP Server - Client.dll
+C:\Users\1\Desktop\Server-Client\SocketServer\obj\Debug\net6.0\refint\TCP Server - Client.dll
+C:\Users\1\Desktop\Server-Client\SocketServer\obj\Debug\net6.0\TCP Server - Client.pdb
+C:\Users\1\Desktop\Server-Client\SocketServer\bin\Debug\net6.0\TCP Server - Client.exe
+C:\Users\1\Desktop\Server-Client\SocketServer\bin\Debug\net6.0\TCP Server - Client.deps.json
+C:\Users\1\Desktop\Server-Client\SocketServer\bin\Debug\net6.0\TCP Server - Client.runtimeconfig.json
+C:\Users\1\Desktop\Server-Client\SocketServer\bin\Debug\net6.0\TCP Server - Client.dll
+C:\Users\1\Desktop\Server-Client\SocketServer\bin\Debug\net6.0\TCP Server - Client.pdb
+C:\Users\1\Desktop\Server-Client\SocketServer\obj\Debug\net6.0\TCP Server - Client.genruntimeconfig.cache
+C:\Users\1\Desktop\Server-Client\SocketServer\obj\Debug\net6.0\ref\TCP Server - Client.dll
